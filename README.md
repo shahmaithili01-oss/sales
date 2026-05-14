@@ -1,1 +1,2 @@
 # sales
+![Dashboard](sales.png)
